@@ -9,7 +9,7 @@ export default [
       title: 'Developer Portfolio',
       imgUrl: './assets/dev.jpg',
       stack: ['React', 'Tailwind', 'Vite'],
-      link: 'https://github.com/Dreamache',
+      link: 'https://github.com/Dreamache/DevPortfolio',
    },
    {
       title: 'Banco de dados Lab',
